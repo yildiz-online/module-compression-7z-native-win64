@@ -28,7 +28,7 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <artifactId>common-compression-7z-native-win64</artifactId>
+  <artifactId>module-compression-7z-native-win64</artifactId>
   <version>1.0.0-SNAPSHOT</version>
 
   <parent>
@@ -56,7 +56,7 @@
   <dependencies>
     <dependency>
       <groupId>be.yildiz-games</groupId>
-      <artifactId>common-compression-7z-native</artifactId>
+      <artifactId>module-compression-7z-native</artifactId>
       <version>1.0.0-SNAPSHOT</version>
     </dependency>
   </dependencies>
@@ -80,7 +80,7 @@
                   <artifactItems>
                     <artifactItem>
                       <groupId>be.yildiz-games</groupId>
-                      <artifactId>common-compression-7z-native</artifactId>
+                      <artifactId>module-compression-7z-native</artifactId>
                       <outputDirectory>src/</outputDirectory>
                       <includes>main/**/*.*</includes>
                     </artifactItem>
