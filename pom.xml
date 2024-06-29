@@ -34,7 +34,7 @@
   <parent>
     <groupId>be.yildiz-games</groupId>
     <artifactId>parent-native</artifactId>
-    <version>2.0.10</version>
+    <version>3.0.1-SNAPSHOT</version>
   </parent>
 
   <name>Yildiz-Engine Common Compression 7z Native Windows 64</name>
