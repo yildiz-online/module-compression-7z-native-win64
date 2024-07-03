@@ -1,1 +1,7 @@
 target/*
+/src/main/includes/
+/src/main/scripts/include/bit7z/
+/src/main/scripts/linux64/
+/src/main/scripts/win64/CMakeFiles/
+/src/main/scripts/win64/java/
+/src/main/c++/
